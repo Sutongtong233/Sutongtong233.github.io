@@ -15,7 +15,7 @@ I am an undergraduate student of artificial intelligence, Computer Science in So
       <p><b>Email:Sutongtong0526@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">     
+      <img src="/0920F0B0A601C65511325D4A8B657644.jpg" width="100%">     
     </td>
   </tr>
 </table>
